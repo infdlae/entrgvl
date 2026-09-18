@@ -1,0 +1,15 @@
+{
+  "name": "50+ Maneiras de Fazer Café",
+  "short_name": "50+ Cafés",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fffaf3",
+  "theme_color": "#1b120e",
+  "icons": [
+    {
+      "src": "assets/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
